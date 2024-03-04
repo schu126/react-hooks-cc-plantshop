@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Arabica Coffee Plant",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSshz5UBbDpmELEe37jsEr6Y0VgQIaRIqvSbKQl2aC1FaOD1kyu2SVQM4xCBMulZ4mmA8Qf4BGmgwSsBkdpG7jzr7L_JO5XXJjMal07G7WUcX-Zl95hZgKO&usqp=CAc",
+      "price": "14.99",
+      "id": 14
+    },
+    {
+      "name": "Sammy Chu",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.boozyburbs.com%2Fwp-content%2Fuploads%2F2020%2F10%2Framenmatsu_0434.jpg&tbnid=gwp4jKf7Y5Q-6M&vet=12ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.boozyburbs.com%2F2020%2F10%2F27%2Framen-in-closter-to-open%2F&docid=6Tvk30zya6crsM&w=1600&h=1375&q=ramen%20matsu%20closter&ved=2ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN",
+      "price": "12.32",
+      "id": 15
+    },
+    {
+      "name": "a",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.boozyburbs.com%2Fwp-content%2Fuploads%2F2020%2F10%2Framenmatsu_0434.jpg&tbnid=gwp4jKf7Y5Q-6M&vet=12ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.boozyburbs.com%2F2020%2F10%2F27%2Framen-in-closter-to-open%2F&docid=6Tvk30zya6crsM&w=1600&h=1375&q=ramen%20matsu%20closter&ved=2ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN",
+      "price": "12.98",
+      "id": 16
+    },
+    {
+      "name": "Sammy Chu",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.boozyburbs.com%2Fwp-content%2Fuploads%2F2020%2F10%2Framenmatsu_0434.jpg&tbnid=gwp4jKf7Y5Q-6M&vet=12ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.boozyburbs.com%2F2020%2F10%2F27%2Framen-in-closter-to-open%2F&docid=6Tvk30zya6crsM&w=1600&h=1375&q=ramen%20matsu%20closter&ved=2ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN",
+      "price": "54.09",
+      "id": 17
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 18
+    },
+    {
+      "name": "Sammy Chu",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.boozyburbs.com%2Fwp-content%2Fuploads%2F2020%2F10%2Framenmatsu_0434.jpg&tbnid=gwp4jKf7Y5Q-6M&vet=12ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.boozyburbs.com%2F2020%2F10%2F27%2Framen-in-closter-to-open%2F&docid=6Tvk30zya6crsM&w=1600&h=1375&q=ramen%20matsu%20closter&ved=2ahUKEwjM1-je05qEAxW2FVkFHUs4Ck0QMygBegQIARBN",
+      "price": "1.43",
+      "id": 19
     }
   ]
 }
